@@ -77,16 +77,16 @@ href="events.php" target="_blank">
 <div id="colourblock2">
 
 <div class="text2" style="text-align:left;margin-left:0;margin-right:auto;">
-<h6 style="text-align:center;margin-left:auto;margin-right:auto;">15th November
+<h6 style="text-align:center;margin-left:auto;margin-right:auto;">20th December
 2016</h6>
 
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Prof. Lucio
-Piccirillo </b><br>
-‘The Origins of the Universe’</p>
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Dr. Eamonn Kerins
+</b><br>
+‘Title to be confirmed’</p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
 style="color:#800040">at<br>
-Red Lion Goostrey .</span><b><br>
+Goostrey Village Hall .</span><b><br>
  <br>
 <a href="maps.php" target="_blank">
 <input type="button" value="Maps" class="btn"> </a> </b></p>
