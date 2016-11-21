@@ -80,9 +80,9 @@ href="events.php" target="_blank">
 <h6 style="text-align:center;margin-left:auto;margin-right:auto;">20th December
 2016</h6>
 
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Dr. Eamonn Kerins
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Dr. Eamonn Kerins  (University of Manchester) 
 </b><br>
-‘Title to be confirmed’</p>
+will be speaking on ‘The Donald Rumsfeld guide to exoplanets: from known knowns to unknown unknowns’</p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
 style="color:#800040">at<br>
