@@ -142,13 +142,13 @@ booked for 2016…</b></p>
 
   <p style="margin-left:2em;">AGM @ Red Lion, Goostrey </p>
 
-  <p></p>-->
+  <p></p>
   <li>Tuesday, 15th November 2016. </li>
 
   <p style="margin-left:2em;">Professor Lucio Piccirillo (University of
   Manchester) will be speaking on ‘The Origins of the Universe’ </p>
 
-  <p></p>
+  <p></p>-->
   <li>Tuesday, 20th December 2016. </li>
 
   <p style="margin-left:2em;">Dr. Eamonn Kerrins (University of Manchester).
