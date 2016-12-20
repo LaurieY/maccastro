@@ -65,10 +65,10 @@ href="maps.php"><strong>Venues</strong></a></p>
 <div id="colourblock-white1">
 
 <div class="text1">
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
+<!-- <p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
 booked for 2016…</b></p>
 <ul class="links">
-  <!--
+  
   <li>Saturday, 2nd January 2016. </li>
 
   <p style="margin-left:2em;">Dr Allan Chapman, (Wadham College, Oxford), will
@@ -148,7 +148,7 @@ booked for 2016…</b></p>
   <p style="margin-left:2em;">Professor Lucio Piccirillo (University of
   Manchester) will be speaking on ‘The Origins of the Universe’ </p>
 
-  <p></p>-->
+  <p></p>
   <li>Tuesday, 20th December 2016. </li>
 
   <p style="margin-left:2em;">Dr. Eamonn Kerrins (University of Manchester).
@@ -156,7 +156,7 @@ booked for 2016…</b></p>
   unknowns. </p>
 
   <p></p>
-
+-->
   <p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
   booked for 2017…</b></p>
   <ul class="links">

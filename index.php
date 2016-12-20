@@ -77,22 +77,25 @@ href="events.php" target="_blank">
 <div id="colourblock2">
 
 <div class="text2" style="text-align:left;margin-left:0;margin-right:auto;">
-<h6 style="text-align:center;margin-left:auto;margin-right:auto;">20th December
-2016</h6>
+<h6 style="text-align:center;margin-left:auto;margin-right:auto;">7th January
+2017</h6>
 
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Dr. Eamonn Kerins  (University of Manchester) 
-</b><br>
-will be speaking on ‘The Donald Rumsfeld guide to exoplanets: from known knowns to unknown unknowns’</p>
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Dr. Allan
+Chapman FRAS</b></p>
+
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>(Wadham
+College, Oxford)</b><br>
+will be speaking on ‘Mary Somerville, 1780 to 1872. Under the World of
+Science,’</p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
 style="color:#800040">at<br>
-Goostrey Village Hall .</span><b><br>
+Calvary Church Hall, Macclesfield .</span><b><br>
  <br>
 <a href="maps.php" target="_blank">
 <input type="button" value="Maps" class="btn"> </a> </b></p>
 
-<p>&nbsp;</p>
-
+<p> </p>
 </div>
 </div>
 <img src="graphics/spacer.gif" alt="image" width="109" height="40"> 

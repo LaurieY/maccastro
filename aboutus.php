@@ -92,8 +92,8 @@ National Curriculum.</p>
     </tr>
     <tr align="center" valign="top">
       <td width="128px"><br>
-        <span style="color:#800040"><strong>Vacant</strong></span><br>
-        Chairman</td>
+        <span style="color:#800040"><strong>Martin Butcher</strong></span><br>
+        Acting Chairman</td>
       <td width="128px"><br>
         <span style="color:#800040"><strong>Vacant</strong></span><br>
         Vice Chairman</td>
