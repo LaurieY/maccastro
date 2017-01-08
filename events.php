@@ -156,7 +156,7 @@ booked for 2016…</b></p>
   unknowns. </p>
 
   <p></p>
--->
+
   <p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
   booked for 2017…</b></p>
   <ul class="links">
@@ -170,6 +170,7 @@ booked for 2016…</b></p>
     href="maps.php">details</a>)</p>
 
     <p></p>
+-->
     <li>Tuesday, 21st February 2017. </li>
 
     <p style="margin-left:2em;">John Timmins (FRAS) will be speaking on

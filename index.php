@@ -77,20 +77,18 @@ href="events.php" target="_blank">
 <div id="colourblock2">
 
 <div class="text2" style="text-align:left;margin-left:0;margin-right:auto;">
-<h6 style="text-align:center;margin-left:auto;margin-right:auto;">7th January
+<h6 style="text-align:center;margin-left:auto;margin-right:auto;">21st February
 2017</h6>
 
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Dr. Allan
-Chapman FRAS</b></p>
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>John
+Timmins (FRAS)</b></p>
 
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>(Wadham
-College, Oxford)</b><br>
-will be speaking on ‘Mary Somerville, 1780 to 1872. Under the World of
-Science,’</p>
+<p style="text-align:center;margin-left:auto;margin-right:auto;">will be
+speaking on ‘Optical Quality and how to improve your telescope’.</p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
 style="color:#800040">at<br>
-Calvary Church Hall, Macclesfield .</span><b><br>
+Village Hall, Goostrey.</span><b><br>
  <br>
 <a href="maps.php" target="_blank">
 <input type="button" value="Maps" class="btn"> </a> </b></p>
