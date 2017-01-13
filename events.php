@@ -68,133 +68,164 @@ href="maps.php"><strong>Venues</strong></a></p>
 <!-- <p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
 booked for 2016…</b></p>
 <ul class="links">
-  
-  <li>Saturday, 2nd January 2016. </li>
 
-  <p style="margin-left:2em;">Dr Allan Chapman, (Wadham College, Oxford), will
-  be speaking on </p>
+<li>Saturday, 2nd January 2016. </li>
 
-  <p style="margin-left:2em;">‘Sir John Herschel: Astronomer by
-  Inheritance,’ at 20:00 at Calvary Church Hall, Macclesfield. </p>
+<p style="margin-left:2em;">Dr Allan Chapman, (Wadham College, Oxford), will
+be speaking on </p>
 
-  <p></p>
-  <li>Tuesday, 16th February 2016. </li>
+<p style="margin-left:2em;">‘Sir John Herschel: Astronomer by
+Inheritance,’ at 20:00 at Calvary Church Hall, Macclesfield. </p>
 
-  <p style="margin-left:2em;">Dr. Anthony Holloway (University of Manchester)
-  will be speaking on ‘Astrophotography’. </p>
+<p></p>
+<li>Tuesday, 16th February 2016. </li>
 
-  <p></p>
-  <li>Tuesday, 15th March 2016. </li>
+<p style="margin-left:2em;">Dr. Anthony Holloway (University of Manchester)
+will be speaking on ‘Astrophotography’. </p>
 
-  <p style="margin-left:2em;">William Stewart will be speaking on ‘Shooting
-  while you sleep – Modern methods for Detecting and Analysing Meteors’.
-  </p>
+<p></p>
+<li>Tuesday, 15th March 2016. </li>
 
-  <p></p>
+<p style="margin-left:2em;">William Stewart will be speaking on ‘Shooting
+while you sleep – Modern methods for Detecting and Analysing Meteors’.
+</p>
 
-  <li>Tuesday, 19th April 2016. </li>
+<p></p>
 
-  <p style="margin-left:2em;">Professor Rob Jeffries (Keele University), will
-  be speaking on ‘New Discoveries among Exoplanets’. </p>
+<li>Tuesday, 19th April 2016. </li>
 
-  <p></p>
+<p style="margin-left:2em;">Professor Rob Jeffries (Keele University), will
+be speaking on ‘New Discoveries among Exoplanets’. </p>
 
-  <p></p>
-  <li>Tuesday, 17th May 2016. </li>
+<p></p>
 
-  <p style="margin-left:2em;">Dr. Mark Hadley (Maccastro) will be speaking on
-  ‘Carbon Chemistry and the requirements for Life’. </p>
+<p></p>
+<li>Tuesday, 17th May 2016. </li>
 
-  <p></p>
+<p style="margin-left:2em;">Dr. Mark Hadley (Maccastro) will be speaking on
+‘Carbon Chemistry and the requirements for Life’. </p>
 
-  <p></p>
-  <li>Tuesday, 21st June 2016. </li>
+<p></p>
 
-  <p style="margin-left:2em;">Dr. Joe Zuntz (University of Manchester) will be
-  speaking on ‘Gravitational Lensing’. </p>
+<p></p>
+<li>Tuesday, 21st June 2016. </li>
 
-  <p></p>
+<p style="margin-left:2em;">Dr. Joe Zuntz (University of Manchester) will be
+speaking on ‘Gravitational Lensing’. </p>
 
-  <p></p>
-  <li>Tuesday, 19th July 2016. </li>
+<p></p>
 
-  <p style="margin-left:2em;">Alfie Neild (UK Infrared project – UKIRT
-  project– Royal Observatory, Edinburgh) will be speaking on<br>
-  ‘Mechanical Engineering Design considerations, for large telescope
-  Structures. Plus, what it is like to live and work in Hawaii’.</p>
+<p></p>
+<li>Tuesday, 19th July 2016. </li>
 
-  <p></p>
+<p style="margin-left:2em;">Alfie Neild (UK Infrared project – UKIRT
+project– Royal Observatory, Edinburgh) will be speaking on<br>
+‘Mechanical Engineering Design considerations, for large telescope
+Structures. Plus, what it is like to live and work in Hawaii’.</p>
 
-  <p></p>
-  <li>Tuesday, 16th August 2016. </li>
+<p></p>
 
-  <p style="margin-left:2em;">Summer Exhibition: Displays, Observing,
-  Competition(s), Raffle, Refreshments. </p>
+<p></p>
+<li>Tuesday, 16th August 2016. </li>
 
-  <p></p>
-  <li>Tuesday, 20th September 2016. </li>
+<p style="margin-left:2em;">Summer Exhibition: Displays, Observing,
+Competition(s), Raffle, Refreshments. </p>
 
-  <p style="margin-left:2em;">Tyler Bourke (SKA Project) will be speaking on
-  ‘The SKA Project’. </p>
+<p></p>
+<li>Tuesday, 20th September 2016. </li>
 
-  <p></p>
-  <li>Tuesday, 18th October 2016. </li>
+<p style="margin-left:2em;">Tyler Bourke (SKA Project) will be speaking on
+‘The SKA Project’. </p>
 
-  <p style="margin-left:2em;">AGM @ Red Lion, Goostrey </p>
+<p></p>
+<li>Tuesday, 18th October 2016. </li>
 
-  <p></p>
-  <li>Tuesday, 15th November 2016. </li>
+<p style="margin-left:2em;">AGM @ Red Lion, Goostrey </p>
 
-  <p style="margin-left:2em;">Professor Lucio Piccirillo (University of
-  Manchester) will be speaking on ‘The Origins of the Universe’ </p>
+<p></p>
+<li>Tuesday, 15th November 2016. </li>
 
-  <p></p>
-  <li>Tuesday, 20th December 2016. </li>
+<p style="margin-left:2em;">Professor Lucio Piccirillo (University of
+Manchester) will be speaking on ‘The Origins of the Universe’ </p>
 
-  <p style="margin-left:2em;">Dr. Eamonn Kerrins (University of Manchester).
-  The Donald Rumsfeld guide to exoplanets: from known knowns to unknown
-  unknowns. </p>
+<p></p>
+<li>Tuesday, 20th December 2016. </li>
 
-  <p></p>
+<p style="margin-left:2em;">Dr. Eamonn Kerrins (University of Manchester).
+The Donald Rumsfeld guide to exoplanets: from known knowns to unknown
+unknowns. </p>
 
-  <p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
-  booked for 2017…</b></p>
-  <ul class="links">
-    <li>Saturday, 7th January 2017.</li>
+<p></p>
 
-    <p style="margin-left:2em;">Dr Allan Chapman, (Wadham College, Oxford),
-    will be speaking on ‘Mary Somerville, 1780 to 1872. Under the World of
-    Science,’ </p>
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Speakers
+booked for 2017…</b></p>
+<ul class="links">
+<li>Saturday, 7th January 2017.</li>
 
-    <p style="margin-left:2em;">20:00 at Calvary Church Hall, Macclesfield. (<a
-    href="maps.php">details</a>)</p>
+<p style="margin-left:2em;">Dr Allan Chapman, (Wadham College, Oxford),
+will be speaking on ‘Mary Somerville, 1780 to 1872. Under the World of
+Science,’ </p>
 
-    <p></p>
+<p style="margin-left:2em;">20:00 at Calvary Church Hall, Macclesfield. (<a
+href="maps.php">details</a>)</p>
+
+<p></p>
 -->
-    <li>Tuesday, 21st February 2017. </li>
-
-    <p style="margin-left:2em;">John Timmins (FRAS) will be speaking on
-    ‘Optical Quality and how to improve your telescope’.</p>
-
-    <p></p>
-    <li>Tuesday, 21st March 2017.</li>
-
-    <p style="margin-left:2em;">Alan Brown (STFC) will be speaking on ‘James
-    Web and the Invisible RED’.</p>
-
-    <p></p>
-    <li>Tuesday, 18th April 2017.</li>
-
-    <p style="margin-left:2em;">Nigel Ball (S. Cheshire AS), will be speaking
-    on ‘Astrophotography’.</p>
-
-    <p></p>
-    <li>Tuesday, 16th May 2017.</li>
-
-    <p style="margin-left:2em;">Rhian Jones (University of Manchester). Topic
-    title on Meteorites TBC. </p>
-  </ul>
+<ul>
+  <li>Tuesday, 21st February 2017. </li>
 </ul>
+
+<p style="margin-left:2em;">John Timmins (FRAS, Telescope shop in Buxton) will
+be speaking on ‘Optical Quality and how to improve your telescope’.</p>
+
+<p></p>
+<ul>
+  <li>Tuesday, 21st March 2017.</li>
+</ul>
+
+<p style="margin-left:2em;">Alan Brown (STFC) will be speaking on ‘James Web
+and the Invisible RED’.</p>
+
+<p></p>
+<ul>
+  <li>Tuesday, 18th April 2017.</li>
+</ul>
+
+<p style="margin-left:2em;">Nigel Ball (S. Cheshire AS), will be speaking on
+‘Astrophotography’.</p>
+
+<p></p>
+<ul>
+  <li>Tuesday, 16th May 2017.</li>
+</ul>
+
+<p style="margin-left:2em;">Rhian Jones (University of Manchester). Topic title
+on Meteorites TBC. </p>
+
+<p></p>
+<ul>
+  <li>Tuesday, 20th June 2017.</li>
+</ul>
+
+<p style="margin-left:2em;">Martin Lunn (MBE, FRAS, former Curator of
+Astronomy, York Museum) will be speaking on ‘Anglo Saxon Astronomy’. </p>
+
+<p></p>
+<ul>
+  <li>Tuesday, 18th July 2017.</li>
+</ul>
+
+<p style="margin-left:2em;">TBC. </p>
+
+<p></p>
+<ul>
+  <li>Tuesday, 15th August 2017.</li>
+</ul>
+
+<p style="margin-left:2em;">Summer Exhibition: Displays, Observing,
+Competitions, Raffle, Refreshments. </p>
+
+<p></p>
 </div>
 </div>
 

@@ -81,7 +81,7 @@ href="events.php" target="_blank">
 2017</h6>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><b>John
-Timmins (FRAS)</b></p>
+Timmins (FRAS, Telescope shop in Buxton)</b></p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;">will be
 speaking on ‘Optical Quality and how to improve your telescope’.</p>
@@ -259,7 +259,7 @@ style="color:#ffffff">© Macclesfield Astronomical Society
 <p> </p>
 
 <p
-style="text-align:center;margin-left:auto;margin-right:auto;color:#ffffff"><?php include("date-modified.php"); ?></p>
+style="text-align:center;margin-left:auto;margin-right:auto;color:#ffffff"><?php include("date-modified.php"); ?> on HawkHost</p>
 </div>
 </body>
 <script type="text/javascript">
