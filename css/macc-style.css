@@ -140,7 +140,7 @@ width:840px;
 height:25px;
 margin:0 auto;
 padding:10px;
-
+box-sizing:content-box;
 }
 
 div.frame2

@@ -199,8 +199,8 @@ and the Invisible RED’.</p>
   <li>Tuesday, 16th May 2017.</li>
 </ul>
 
-<p style="margin-left:2em;">Rhian Jones (University of Manchester). Topic title
-on Meteorites TBC. </p>
+<p style="margin-left:2em;">Rhian Jones (University of Manchester). will be
+speaking on ‘Meteorites and the birth of the Solar System'. </p>
 
 <p></p>
 <ul>

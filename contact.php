@@ -30,12 +30,17 @@
 </div>
 
 <div class="logo">
-<?php include("logo.php"); ?>
+<?php
+include ("logo.php");
+?>
 </div>
 </div>
 
 <div class="frame1">
-<?php include("menu.php"); ?>
+<?php
+
+include ("menu.php");
+?>
 </div>
 
 <div class="frame">
@@ -44,13 +49,13 @@
 
 <div class="text3">
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><b><span
-style="color:#ff0000">Visit Us! </span><spanstyle="color:#800040">Why not come
-along to one of our <a href="events.php">meetings</a>? </b><strong></strong></p>
+style="color:#ff0000">Visit Us! </span><span style="color:#800040">Why not come
+along to one of our <a href="events.php">meetings</a>?</span> </b><strong></strong></p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><b><span
 style="color:#ff0000">Join Us!
-</span><spanstyle="color:#800040"></b><strong>Ask about membership by emailing
-the Society at the address below. </strong></p>
+</span></b><span style="color:#800040"><strong>Ask about membership by emailing
+the Society at the address below. </strong></span></p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><em>Please
 provide your name, email address and detailed enquiry. The webmaster will get
@@ -91,7 +96,9 @@ href="http://www.3dtextmaker.com/image_editor.html">http://www.3dtextmaker.com/i
 <div id="bottom">
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
 style="color:#ffffff">© Macclesfield Astronomical Society
-<?php echo date("Y") ?></span></p>
+<?php
+
+echo date("Y")?></span></p>
 </div>
 </body>
 </html>
