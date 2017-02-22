@@ -77,14 +77,14 @@ href="events.php" target="_blank">
 <div id="colourblock2">
 
 <div class="text2" style="text-align:left;margin-left:0;margin-right:auto;">
-<h6 style="text-align:center;margin-left:auto;margin-right:auto;">21st February
+<h6 style="text-align:center;margin-left:auto;margin-right:auto;">21st March
 2017</h6>
 
-<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>John
-Timmins (FRAS, Telescope shop in Buxton)</b></p>
+<p style="text-align:center;margin-left:auto;margin-right:auto;"><b>Alan Brown
+(STFC)</b></p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;">will be
-speaking on ‘Optical Quality and how to improve your telescope’.</p>
+speaking on ‘James Web and the Invisible RED’.</p>
 
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
 style="color:#800040">at<br>
@@ -259,7 +259,8 @@ style="color:#ffffff">© Macclesfield Astronomical Society
 <p> </p>
 
 <p
-style="text-align:center;margin-left:auto;margin-right:auto;color:#ffffff"><?php include("date-modified.php"); ?> on HawkHost</p>
+style="text-align:center;margin-left:auto;margin-right:auto;color:#ffffff"><?php include("date-modified.php"); ?>on
+HawkHost</p>
 </div>
 </body>
 <script type="text/javascript">

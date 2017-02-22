@@ -170,7 +170,7 @@ Science,’ </p>
 href="maps.php">details</a>)</p>
 
 <p></p>
--->
+
 <ul>
   <li>Tuesday, 21st February 2017. </li>
 </ul>
@@ -179,6 +179,7 @@ href="maps.php">details</a>)</p>
 be speaking on ‘Optical Quality and how to improve your telescope’.</p>
 
 <p></p>
+-->
 <ul>
   <li>Tuesday, 21st March 2017.</li>
 </ul>
