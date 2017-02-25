@@ -44,5 +44,5 @@
 <li><a href="equipment.php">Equipment</a></li>
 </ul>
   </li>
-  <li><a href="contact.php">Contact Us</a></li>
+  <li><a href="contact2.php">Contact Us</a></li>
 </ul>

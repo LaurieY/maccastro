@@ -20,11 +20,11 @@ return [
         'btn-send' => 'Send'
     ],
     'subjects' => [
-        'general' => 'general@lyates.com',
-        'membership' => 'membership@lyates.com',
-         'speakers' => 'speakers@lyates.com',
-          'outreach' => 'outreach@lyates.com',
-           'website' => 'website@lyates.com',
+        'general' => 'general@maccastrosoc.com',
+        'membership' => 'membership@maccastrosoc.com',
+         'speakers' => 'speakers@maccastrosoc.com',
+          'outreach' => 'outreach@maccastrosoc.com',
+           'website' => 'webmaster@maccastrosoc.com',
            
     ]
 ];
