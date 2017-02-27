@@ -1,14 +1,17 @@
 <?php
 require_once './vendor/autoload.php';
 
-$helperLoader = new SplClassLoader('Helpers', './vendor');
-$mailLoader = new SplClassLoader('SimpleMail', './vendor');
+//$helperLoader = new SplClassLoader('Helpers', './vendor');
+//$mailLoader   = new SplClassLoader('SimpleMail', './vendor');
+require_once 'vendor/swiftmailer/swiftmailer/lib/swift_required.php';
 
-$helperLoader->register();
-$mailLoader->register();
+//$helperLoader->register();
+//$mailLoader->register();
 
+
+require 'vendor/Helpers/Config.class.php';
 use Helpers\Config;
-use SimpleMail\SimpleMail;
+//use SimpleMail\SimpleMail;
 
 $config = new Config();
 $config->load('./config/config.php');
@@ -16,7 +19,7 @@ $config->load('./config/config.php');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = stripslashes(trim($_POST['form-name']));
     $email = stripslashes(trim($_POST['form-email']));
-   $phone = stripslashes(trim($_POST['phone']));
+   $phone = stripslashes(trim($_POST['form-phone']));
     $subject = stripslashes(trim($_POST['form-subject'])); 
     $message = stripslashes(trim($_POST['form-message']));
     $pattern = '/[\r\n]|Content-Type:|Bcc:|Cc:/i';
@@ -29,13 +32,18 @@ $subject_to = $config->get('subjects.'.$subject);
     $emailIsValid = filter_var($email, FILTER_VALIDATE_EMAIL);
 
     if ($name && $email && $emailIsValid && $subject && $message) {
-        $mail = new SimpleMail();
+        // $mail = new SimpleMail();
+        $transport = Swift_SmtpTransport::newInstance('mail.maccastrosoc.com', 25);
+        $transport->setUsername('webmaster@maccastrosoc.com');
+        $transport->setPassword('laurie12');
 
-       // $mail->setTo($config->get('emails.to'));
+        $swift = Swift_Mailer::newInstance($transport);
+        $mail = new Swift_Message($subject);
         $mail->setTo($subject_to);
-        $mail->setFrom($config->get('emails.from'));
-        $mail->setSender($name);
-        $mail->setSenderEmail($email);
+        //$mail->setFrom($config->get('emails.from'));
+        $mail->setFrom($email);
+        //$mail->setSender($name);
+        $mail->setSender($config->get('emails.from'));
         $mail->setSubject($config->get('subject.prefix') . ' ' . $subject);
 
         $body = "
@@ -53,9 +61,11 @@ $subject_to = $config->get('subjects.'.$subject);
             </body>
         </html>";
 
-        $mail->setHtml($body);
-        $mail->send();
-
+        //$mail->setHtml($body);
+        //$mail->setBody('Here is the message itself');
+        $mail->setBody($body, 'text/html');
+        print_r($mail);
+        $recipients = $swift->send($mail, $failures);
         $emailSent = true;
     } else {
         $hasError = true;
@@ -279,7 +289,7 @@ if (! empty($emailSent)) :
     </script>
 <div id="bottom">
 <p style="text-align:center;margin-left:auto;margin-right:auto;"><span
-style="color:#ffffff">© Macclesfield Astronomical Society
+style="color:#ffffff">ï¿½ Macclesfield Astronomical Society
 <?php
 
 echo date("Y")?></span></p>
